@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RandomUser</string>
+    <string name="destination_random_person">Random person</string>
+    <string name="destination_men">Men</string>
+    <string name="destination_women">Women</string>
+    <string name="description_user_photo">User photo</string>
+    <string name="label_age">Age</string>
+    <string name="label_city">City</string>
+    <string name="label_email">Email</string>
+    <string name="error_unable_to_reach_server">Unable to reach RandomUser.me server</string>
+    <string name="button_retry">Retry</string>
+    <string name="description_error_icon">Error icon</string>
+    <plurals name="years">
+        <item quantity="one">%d year</item>
+        <item quantity="other">%d years</item>
+    </plurals>
+</resources>

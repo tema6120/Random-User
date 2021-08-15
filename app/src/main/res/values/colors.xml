@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#4D7DCF</color>
+    <color name="bottom_navigation_bar">@android:color/white</color>
+    <color name="status_bar">@android:color/white</color>
+    <color name="bottom_navigation_button_selected">@color/primary</color>
+    <color name="bottom_navigation_button_unselected">#A6000000</color>
+    <color name="text_primary">#CC000000</color>
+    <color name="error">#DB3F3F</color>
+    <color name="button_retry">#99000000</color>
+    <color name="progress_bar">#1F000000</color>
+</resources>
