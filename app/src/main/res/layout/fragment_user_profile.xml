@@ -13,6 +13,7 @@
         android:visibility="gone" />
 
     <include
+        android:id="@+id/errorLayout"
         layout="@layout/error"
         tools:visibility="gone" />
 
